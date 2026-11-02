@@ -20,7 +20,7 @@
   "dependencies": {
     "@pseinfo/i18n": "github:pseinfo/i18n",
     "astro": "^6.4.8",
-    "i18next": "^26.5.11",
+    "i18next": "^26.5.12",
     "lucide-react": "^1.64.0",
     "react": "^19.2.6",
     "react-i18next": "^17.1.9"
